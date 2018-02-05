@@ -1,0 +1,27 @@
+
+h1 {
+  color: red;
+  border-bottom: 4px solid blue;
+  padding-bottom: 6px;
+}
+
+body {
+  font-family: 'Aprial';
+  font-size: '20px';
+}
+
+li {
+  font-weight: bold;
+}
+
+p {
+  border: solid 3px purple;
+  padding: 6px;
+  margin-left: 40px;
+}
+
+.highlighter {
+  background-color: yellow;
+}
+
+.framed {border: solid 3px puple; padding 23px;}
